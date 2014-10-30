@@ -1,0 +1,7 @@
+{
+    "parent": "block/custom_lamp",
+    "textures": {
+        "texture": "blocks/glowstone",
+        "particle": "blocks/glowstone"
+    }
+}

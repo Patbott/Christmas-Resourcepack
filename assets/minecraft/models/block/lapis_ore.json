@@ -1,0 +1,7 @@
+{
+    "parent": "block/custom_lamp",
+    "textures": {
+        "texture": "blocks/lapis_ore",
+        "particle": "blocks/lapis_ore"
+    }
+}

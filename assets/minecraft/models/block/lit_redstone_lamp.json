@@ -1,0 +1,7 @@
+{
+    "parent": "block/custom_lamp",
+    "textures": {
+        "texture": "blocks/redstone_lamp_on",
+        "particle": "blocks/redstone_lamp_off"
+    }
+}
