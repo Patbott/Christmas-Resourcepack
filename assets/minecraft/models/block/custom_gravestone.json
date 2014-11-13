@@ -1,0 +1,205 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": true,
+    "textures": {
+        "gravestone": "blocks/gravestone"
+    },
+    "elements": [
+        {
+            "from": [1,0,5],
+            "to": [15,2,11],
+            "faces": {
+                "up": {
+                    "uv": [8.5,8.5,15.5,11.5],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [2.5,7,5.5,8],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [2.5,7,5.5,8],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [0.5,7,7.5,8],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [8.5,7,15.5,8],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [3,2,7],
+            "to": [13,10,9],
+            "faces": {
+                "north": {
+                    "uv": [1.5,2.5,6.5,7],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [9.5,2.5,14.5,7],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [4,10,7],
+            "to": [12,12,9],
+            "faces": {
+                "north": {
+                    "uv": [2,1.5,6,2.5],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [10,1.5,14,2.5],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [2,2,6],
+            "to": [3,10,10],
+            "faces": {
+                "up": {
+                    "uv": [9,13.5,9.5,15.5],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [9.5,11.5,11.5,15.5],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [6.5,2.5,7,7],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [6.5,2.5,7,7],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [9,2.5,9.5,7],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [13,2,6],
+            "to": [14,10,10],
+            "faces": {
+                "up": {
+                    "uv": [14.5,5.5,15,7],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [1,2.5,1.5,7],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [8.5,11.5,10.5,16],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [1,2.5,1.5,7],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [14.5,2.5,15,7],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [3,10,6],
+            "to": [4,12,10],
+            "faces": {
+                "up": {
+                    "uv": [10,11.5,10.5,13.5],
+                    "texture": "#gravestone"
+                },
+                "down": {
+                    "uv": [6,2,6.5,2.5],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [10.5,12,12.5,13],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [6,1.5,6.5,2.5],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [6,1.5,6.5,2.5],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [9.5,1.5,10,2.5],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [12,10,6],
+            "to": [13,12,10],
+            "faces": {
+                "up": {
+                    "uv": [9.5,14,10,16],
+                    "texture": "#gravestone"
+                },
+                "down": {
+                    "uv": [1.5,2,2,2.5],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [1.5,1.5,2,2.5],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [8.5,15,10.5,16],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [1.5,1.5,2,2.5],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [14,1.5,14.5,2.5],
+                    "texture": "#gravestone"
+                }
+            }
+        },
+        {
+            "from": [4,12,6],
+            "to": [12,13,10],
+            "faces": {
+                "up": {
+                    "uv": [8.5,14,12.5,16],
+                    "texture": "#gravestone"
+                },
+                "down": {
+                    "uv": [2,1,6,1.5],
+                    "texture": "#gravestone"
+                },
+                "west": {
+                    "uv": [10,11.5,12,12],
+                    "texture": "#gravestone"
+                },
+                "east": {
+                    "uv": [8.5,14.5,10.5,15],
+                    "texture": "#gravestone"
+                },
+                "north": {
+                    "uv": [2,1,6,1.5],
+                    "texture": "#gravestone"
+                },
+                "south": {
+                    "uv": [10,1,14,1.5],
+                    "texture": "#gravestone"
+                }
+            }
+        }
+    ]
+}
