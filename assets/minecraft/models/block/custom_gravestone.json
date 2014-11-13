@@ -2,6 +2,7 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": true,
     "textures": {
+		"particle": "blocks/gravestone",
         "gravestone": "blocks/gravestone"
     },
     "elements": [
